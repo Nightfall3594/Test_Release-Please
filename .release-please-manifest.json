@@ -1,4 +1,6 @@
 {
   "frontend": "0.1.0",
-  "python-service": "0.1.0"
+  "python-service": "0.1.0",
+  "mservice1": "0.1.0",
+  "mservice2": "1.0.0"
 }
